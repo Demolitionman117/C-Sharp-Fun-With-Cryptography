@@ -1,0 +1,6 @@
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift5RainOfTabels\Uppgift5RainOfTabels\bin\Debug\Uppgift5RainOfTabels.exe.config
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift5RainOfTabels\Uppgift5RainOfTabels\bin\Debug\Uppgift5RainOfTabels.exe
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift5RainOfTabels\Uppgift5RainOfTabels\bin\Debug\Uppgift5RainOfTabels.pdb
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift5RainOfTabels\Uppgift5RainOfTabels\obj\Debug\Uppgift5RainOfTabels.csprojResolveAssemblyReference.cache
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift5RainOfTabels\Uppgift5RainOfTabels\obj\Debug\Uppgift5RainOfTabels.exe
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift5RainOfTabels\Uppgift5RainOfTabels\obj\Debug\Uppgift5RainOfTabels.pdb

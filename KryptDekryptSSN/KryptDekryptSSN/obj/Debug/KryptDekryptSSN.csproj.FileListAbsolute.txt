@@ -1,0 +1,15 @@
+c:\users\saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\bin\Debug\KryptDekryptSSN.exe.config
+c:\users\saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\bin\Debug\KryptDekryptSSN.exe
+c:\users\saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\bin\Debug\KryptDekryptSSN.pdb
+c:\users\saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\obj\Debug\KryptDekryptSSN.csprojResolveAssemblyReference.cache
+c:\users\saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\obj\Debug\MainWindow.baml
+c:\users\saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\obj\Debug\MainWindow.g.cs
+c:\users\saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\obj\Debug\App.g.cs
+c:\users\saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\obj\Debug\KryptDekryptSSN_MarkupCompile.cache
+c:\users\saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\obj\Debug\KryptDekryptSSN.g.resources
+c:\users\saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\obj\Debug\KryptDekryptSSN.Properties.Resources.resources
+c:\users\saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\obj\Debug\KryptDekryptSSN.csproj.GenerateResource.Cache
+c:\users\saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\obj\Debug\KryptDekryptSSN.exe
+c:\users\saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\obj\Debug\KryptDekryptSSN.pdb
+C:\Users\Saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\obj\Debug\KryptDekryptSSN_MarkupCompile.lref
+C:\Users\Saed\documents\visual studio 2013\Projects\KryptDekryptSSN\KryptDekryptSSN\obj\Debug\KryptDekryptSSN.OmWindow.resources

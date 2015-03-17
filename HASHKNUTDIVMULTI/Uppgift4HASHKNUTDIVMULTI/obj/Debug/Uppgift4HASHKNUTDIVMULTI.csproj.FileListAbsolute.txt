@@ -1,0 +1,6 @@
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift4HASHKNUTDIVMULTI\Uppgift4HASHKNUTDIVMULTI\bin\Debug\Uppgift4HASHKNUTDIVMULTI.exe.config
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift4HASHKNUTDIVMULTI\Uppgift4HASHKNUTDIVMULTI\obj\Debug\Uppgift4HASHKNUTDIVMULTI.csprojResolveAssemblyReference.cache
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift4HASHKNUTDIVMULTI\Uppgift4HASHKNUTDIVMULTI\bin\Debug\Uppgift4HASHKNUTDIVMULTI.exe
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift4HASHKNUTDIVMULTI\Uppgift4HASHKNUTDIVMULTI\bin\Debug\Uppgift4HASHKNUTDIVMULTI.pdb
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift4HASHKNUTDIVMULTI\Uppgift4HASHKNUTDIVMULTI\obj\Debug\Uppgift4HASHKNUTDIVMULTI.exe
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift4HASHKNUTDIVMULTI\Uppgift4HASHKNUTDIVMULTI\obj\Debug\Uppgift4HASHKNUTDIVMULTI.pdb

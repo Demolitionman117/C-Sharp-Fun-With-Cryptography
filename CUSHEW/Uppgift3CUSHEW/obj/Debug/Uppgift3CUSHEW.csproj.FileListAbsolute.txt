@@ -1,0 +1,6 @@
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift3CUSHEW\Uppgift3CUSHEW\bin\Debug\Uppgift3CUSHEW.exe.config
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift3CUSHEW\Uppgift3CUSHEW\bin\Debug\Uppgift3CUSHEW.exe
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift3CUSHEW\Uppgift3CUSHEW\bin\Debug\Uppgift3CUSHEW.pdb
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift3CUSHEW\Uppgift3CUSHEW\obj\Debug\Uppgift3CUSHEW.csprojResolveAssemblyReference.cache
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift3CUSHEW\Uppgift3CUSHEW\obj\Debug\Uppgift3CUSHEW.exe
+c:\users\saed\documents\visual studio 2013\Projects\Uppgift3CUSHEW\Uppgift3CUSHEW\obj\Debug\Uppgift3CUSHEW.pdb

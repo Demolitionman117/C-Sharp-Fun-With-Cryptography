@@ -1,0 +1,44 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-# CUSUM METOD #-#-#-#-#-#-#-#-#-#-#-#-#-#
+           
+---------------Krypterade Kluster Case01---------------
+           
+Kluster nummer: 593| At-värde: 10,3342080913944
+           
+---------------Krypterade Kluster Case02---------------
+           
+Kluster nummer: 212| At-värde: 9,74321026284196
+           
+---------------Krypterade Kluster Case03---------------
+           
+Kluster nummer: 206| At-värde: 9,73334282855245
+           
+---------------Krypterade Kluster Case04---------------
+           
+Kluster nummer: 134| At-värde: 9,87440585423636
+           
+---------------Krypterade Kluster Case05---------------
+           
+Kluster nummer: 34| At-värde: 10,3236353942629
+           
+---------------Krypterade Kluster Case06---------------
+           
+Kluster nummer: 20| At-värde: 9,78459269713147
+           
+---------------Krypterade Kluster Case07---------------
+           
+Kluster nummer: 239| At-värde: 12,6145779599734
+           
+---------------Krypterade Kluster Case08---------------
+           
+Kluster nummer: 254| At-värde: 9,45651598565733
+           
+---------------Krypterade Kluster Case09---------------
+           
+Kluster nummer: 180| At-värde: 10,4176306571049
+           
+---------------Krypterade Kluster Case10---------------
+           
+Kluster nummer: 86| At-värde: 9,33374776284196
+           
+#####################+-Slutet på CUSUM METOD-+######################
+           

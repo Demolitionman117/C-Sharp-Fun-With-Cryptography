@@ -1,0 +1,46 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-# SHEWARTS METOD #-#-#-#-#-#-#-#-#-#-#-#-#-#
+
+          
+---------------Krypterade Kluster Case01---------------
+          
+Kluster nummer: 593| U-värde: 23,49914
+          
+---------------Krypterade Kluster Case02---------------
+          
+Kluster nummer: 684| U-värde: 23,16599
+          
+---------------Krypterade Kluster Case03---------------
+          
+Kluster nummer: 204| U-värde: 21,67131
+          
+---------------Krypterade Kluster Case04---------------
+          
+Kluster nummer: 203| U-värde: 16,84509
+          
+---------------Krypterade Kluster Case05---------------
+          
+Kluster nummer: 455| U-värde: 23,437
+          
+---------------Krypterade Kluster Case06---------------
+          
+Kluster nummer: 203| U-värde: 24,2962
+          
+---------------Krypterade Kluster Case07---------------
+          
+Kluster nummer: 330| U-värde: 23,78445
+          
+---------------Krypterade Kluster Case08---------------
+          
+Kluster nummer: 245| U-värde: 23,64665
+          
+---------------Krypterade Kluster Case09---------------
+          
+Kluster nummer: 372| U-värde: 22,55124
+          
+---------------Krypterade Kluster Case10---------------
+          
+Kluster nummer: 846| U-värde: 24,03306
+          
+#####################+-Slutet på SHEWARTS METOD-+######################
+
+          
